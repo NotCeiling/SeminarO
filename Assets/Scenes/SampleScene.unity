@@ -1957,6 +1957,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 249674732}
+  - component: {fileID: 249674733}
   m_Layer: 0
   m_Name: Farms (1)
   m_TagString: Untagged
@@ -1981,6 +1982,18 @@ Transform:
   - {fileID: 86796763}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!210 &249674733
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 249674731}
+  m_Enabled: 1
+  m_SortingLayerID: 279768929
+  m_SortingLayer: 4
+  m_SortingOrder: 0
+  m_SortAtRoot: 0
 --- !u!1 &257815682
 GameObject:
   m_ObjectHideFlags: 0
@@ -8333,6 +8346,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1164563961}
+  - component: {fileID: 1164563962}
   m_Layer: 0
   m_Name: Farms (2)
   m_TagString: Untagged
@@ -8357,6 +8371,18 @@ Transform:
   - {fileID: 1942981946}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!210 &1164563962
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1164563960}
+  m_Enabled: 1
+  m_SortingLayerID: 279768929
+  m_SortingLayer: 4
+  m_SortingOrder: 0
+  m_SortAtRoot: 0
 --- !u!1 &1199894003
 GameObject:
   m_ObjectHideFlags: 0
@@ -9149,6 +9175,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1307650652}
+  - component: {fileID: 1307650653}
   m_Layer: 0
   m_Name: Farms
   m_TagString: Untagged
@@ -9173,6 +9200,18 @@ Transform:
   - {fileID: 1322053358}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!210 &1307650653
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1307650651}
+  m_Enabled: 1
+  m_SortingLayerID: 279768929
+  m_SortingLayer: 4
+  m_SortingOrder: 0
+  m_SortAtRoot: 0
 --- !u!1 &1322053357
 GameObject:
   m_ObjectHideFlags: 0
