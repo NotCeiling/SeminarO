@@ -44,6 +44,9 @@ TagManager:
   - name: Grass
     uniqueID: 1549620389
     locked: 0
+  - name: Grass plant
+    uniqueID: 2365279273
+    locked: 0
   - name: Player
     uniqueID: 2563915371
     locked: 0
