@@ -47,6 +47,9 @@ TagManager:
   - name: Grass plant
     uniqueID: 2365279273
     locked: 0
+  - name: Path
+    uniqueID: 3602747839
+    locked: 0
   - name: Grass Tree
     uniqueID: 279768929
     locked: 0
