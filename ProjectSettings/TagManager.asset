@@ -53,6 +53,9 @@ TagManager:
   - name: Grass Tree
     uniqueID: 279768929
     locked: 0
+  - name: Plant Plots
+    uniqueID: 1720886861
+    locked: 0
   - name: House
     uniqueID: 3369144353
     locked: 0
