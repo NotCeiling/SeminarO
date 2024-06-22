@@ -22,7 +22,7 @@ public class PickupCropScript : MonoBehaviour
     {
         if (CropPickUpAllowed && Input.GetKeyDown(KeyCode.E))
         {
-            gameObject.transform.gameObject.SetActive(false);
+            gameObject.SetActive(false);
             PlantType.gameObject.SetActive(true);
         }
     }
