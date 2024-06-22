@@ -9,9 +9,13 @@ public class PickupCropScript : MonoBehaviour
     private TextMeshProUGUI PickUpCropText;
     private bool CropPickUpAllowed;
 
+    [SerializeField]
+    private GameObject PlantType;
+
     void Start()
     {
         PickUpCropText.gameObject.SetActive(false);
+        PlantType.gameObject.SetActive(false);
     }
 
     void Update()
@@ -19,6 +23,7 @@ public class PickupCropScript : MonoBehaviour
         if (CropPickUpAllowed && Input.GetKeyDown(KeyCode.E))
         {
             gameObject.transform.gameObject.SetActive(false);
+            PlantType.gameObject.SetActive(true);
         }
     }
 
