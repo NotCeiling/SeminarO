@@ -59,6 +59,9 @@ TagManager:
   - name: House
     uniqueID: 3369144353
     locked: 0
+  - name: Signs
+    uniqueID: 1439201843
+    locked: 0
   - name: Player
     uniqueID: 2563915371
     locked: 0
